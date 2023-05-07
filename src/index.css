@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.currency {
+    color: white;
+    background-color: lightgreen;
+    border: 0;
+    border-radius: 5pt;
+    text-align: center;
+    padding: 6pt;
+    font-size: large;
+}
